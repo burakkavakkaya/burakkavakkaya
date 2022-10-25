@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 i know
-C#,.NET,SQL
+C#, .NET, SQL
 
 im learning
 C++
