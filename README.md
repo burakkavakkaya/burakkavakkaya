@@ -5,12 +5,7 @@
 - 📫 How to reach me burakkavakkaya@gmail.com
 
 i know
-C#, .NET, SQL
+C#, C++,.NET, SQL
 
-im learning
-C++
 
-<!---
-burakkavakkaya/burakkavakkaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
